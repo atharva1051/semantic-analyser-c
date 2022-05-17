@@ -1,3 +1,4 @@
+//wrong array size
 #include<stdio.h>
 
 void main()

@@ -1,3 +1,4 @@
+//called fucntion not declared
 #include<stdio.h>
 
 void main()

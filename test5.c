@@ -1,3 +1,4 @@
+//type mismatch
 #include<stdio.h>
 
 void main()

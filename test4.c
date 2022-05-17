@@ -1,3 +1,4 @@
+//passed number of parameters dont match
 #include<stdio.h>
 
 int myfunc(int a)

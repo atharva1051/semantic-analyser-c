@@ -1,4 +1,4 @@
-
+//void function is returning value
 #include<stdio.h>
 
 void myfunc(int a)
